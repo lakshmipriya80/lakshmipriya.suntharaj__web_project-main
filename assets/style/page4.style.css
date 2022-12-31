@@ -10,14 +10,14 @@ h1{
 .ingredients{
     font-weight: bolder;
     margin: auto;
-    width: 30%;
+    
     margin-top: 20px;
 }
 
 
 .steps{
     margin: auto;
-    width: 539px;
+    
     margin-top: 20px
  
     
@@ -44,4 +44,7 @@ h1{
     height: 500px;
 
  
+}
+.ingre{
+
 }
