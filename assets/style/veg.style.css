@@ -19,6 +19,7 @@
     justify-content: center;
     line-height: 20px;
     margin-left: -25px;
+    flex-wrap: wrap;
 }
 body{
     background-color: #d8e1cc;
@@ -206,4 +207,4 @@ font-weight: bolder;
         font-family: Comic Sans Ms;
         margin-right: 20px;
     }
-    
+   
